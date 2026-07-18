@@ -1,0 +1,4 @@
+admin:admin:Administrateur
+pharmacien:1234:Pharmacien
+vendeur:vendeur:Vendeur
+Djeferly:Djef1234:Administrateur:Djeferly
