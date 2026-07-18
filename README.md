@@ -1,2 +1,2 @@
 # Pharmacie
-Une app de gestion medicament
+Une app de gestion pour une pharmacie
